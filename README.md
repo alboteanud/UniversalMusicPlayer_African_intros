@@ -1,7 +1,7 @@
 Music Player 
 =====================================
 
-This app implements an audio media player with cloud based content end database. It works
+This app implements an audio media player with cloud based content. It works
 across multiple form factors and provide a consistent user experience
 on Android phones, tablets, Android Auto, Android Wear, Android TV and Google Cast devices.
 
