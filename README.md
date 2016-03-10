@@ -1,21 +1,10 @@
-Universal Android Music Player Sample
+Music Player 
 =====================================
 
-This sample shows how to implement an audio media app that works
+This app implements an audio media player with cloud based content end database. It works
 across multiple form factors and provide a consistent user experience
 on Android phones, tablets, Android Auto, Android Wear, Android TV and Google Cast devices.
 
-
-Pre-requisites
---------------
-
-- Android SDK v21
-
-Getting Started
----------------
-
-This sample uses the Gradle build system. To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
 
 Screenshots
 -----------
@@ -30,19 +19,7 @@ Screenshots
 ![Android Wear watch face](screenshots/android_wear_1.png "MediaStyle notifications on an Android Wear watch")
 ![Android Wear controls](screenshots/android_wear_2.png "Media playback controls on an Android Wear watch")
 
-Support
--------
 
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
-
-If you've found an error in this sample, please file an issue:
-https://github.com/googlesamples/android-UniversalMusicPlayer/issues
-
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
-
-License
 -------
 
 Copyright 2014 The Android Open Source Project, Inc.
